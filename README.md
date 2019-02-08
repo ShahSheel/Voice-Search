@@ -22,3 +22,4 @@ Voice Recognition to play Spotify Music using React
 * In app.js found in `client` folder, change all occurances of the same path(for eg `http://localhost:{PORT}`) to your domain however the port number should remain the same. 
 
 
+![Image](https://github.com/ShahSheel/Voice-Search/blob/master/img/VoiceSearch.PNG)
