@@ -8,8 +8,7 @@
 
 * Clone this repository
 * Edit the `client_id`, `secret id` and `redirect_url`found in `Authoriziation_Code`, `Client_Credientials`, `implicit_grant`to your own credentials (This information will be found in your Spotify Developers Account)
-* If you are running this on localhost then you do not need to change anything further, otherwise see below.
-* In Autherization_code `folder` run `node app.js` 
+* In Authoriziation_Code `folder` run `node app.js` 
 * In the `Client` folder run `npm start`. 
 
 
